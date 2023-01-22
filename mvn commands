@@ -1,0 +1,64 @@
+    1  PS1="my_mvn$ "
+    2  clear
+    3  PS1="hello$ "
+    4  PS1="my_mvn$ "
+    5  clear
+    6  apt-get update
+    7  clear
+    8  java -version
+    9  apt install openjdk-11-jre
+   10  java -version
+   11  clear
+   12  history
+   13  apt-get install maven
+   14  clear
+   15  mvn --version
+   16  apt-get install git-all
+   17  clear
+   18  git --versin
+   19  git --version
+   20  mkdir /my_project
+   21  cd /my_project
+   22  pwd
+   23  clear
+   24  ls
+   25  pwd
+   26  ls
+   27  git clone https://github.com/discover-devops/jenkins_sample_maven_app.git
+   28  clear
+   29  ls
+   30  cd jenkins_sample_maven_app
+   31  ls
+   32  ls -lart
+   33  mvn compile
+   34  pwd
+   35  cd single-module
+   36  cd target/
+   37  cd classes/
+   38  ls
+   39  cd com/
+   40  ls
+   41  cd example/
+   42  ll
+   43  cd /my_project/jenkins_sample_maven_app/single-module/src/main/resource
+   44  cd /my_project/jenkins_sample_maven_app/single-module/src/main/
+   45  ls
+   46  cd jas
+   47  cd *
+   48  clear
+   49  ll
+   50  cd com/
+   51  ll
+   52  cd example/
+   53  ll
+   54  clear
+   55  cd
+   56  pwd
+   57  cd /my_project/
+   58  ls
+   59  cd jenkins_sample_maven_app/
+   60  ls
+   61  mvn compile
+   62  clear
+   63  history
+my_mvn$
